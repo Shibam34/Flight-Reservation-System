@@ -10,7 +10,7 @@ public class flightReservationSystem {
 		boardingPass bp = new boardingPass();
 
 		while (true) {
-			System.out.println("_____________________________________________________________");
+			System.out.println("________________________________________________________________");
 			System.out.println();
 			System.out.println("************************WELCOME TO INDIGO***********************");
 			System.out.println("________________________________________________________________");
