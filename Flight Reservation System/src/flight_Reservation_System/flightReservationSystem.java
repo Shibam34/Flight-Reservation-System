@@ -63,7 +63,7 @@ public class flightReservationSystem {
 				bp.editBookingDetails();
 				break;
 			case 5:
-				bp.boardingPassGenerator();
+				bp.t.boardingPassGenerator();
 				break;
 			case 6:
 				System.out.println("Thank you for Flying with INDIGO");
